@@ -99,6 +99,10 @@ img{
 	display: flex;
 	flex-wrap: wrap;
 	text-align: center;
+	
+}
+.slyh1 .li1{
+	margin-left: 0.3rem;
 }
 .slyh1 img{
 	width:0.819rem;
